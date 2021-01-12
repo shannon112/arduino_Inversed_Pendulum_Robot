@@ -18,15 +18,15 @@
 4. HC-SR04 ultrasonic distance sensor (NO USED)  
 5. N20 Micro Gear Motor – 6V 300RPM  
 6. LM2596S Adjustable Voltage Regulator  
-<img src="https://raw.githubusercontent.com/shannon112/arduino_Inversed_Pendulum_Robot/v2.0/component.JPG" width="350">
+<img src="https://raw.githubusercontent.com/shannon112/arduino_WALLEEE/v2.0/component.JPG" width="350">
 
 ### Demo & Intro ppt :  
 https://www.slideshare.net/secret/6h9gbEV9liPfVa  
-<img src="https://raw.githubusercontent.com/shannon112/arduino_Inversed_Pendulum_Robot/v2.0/image_ppt.png" width="500">
+<img src="https://raw.githubusercontent.com/shannon112/arduino_WALLEEE/v2.0/image_ppt.png" width="500">
   
 ### Demo Video:
 https://youtu.be/776TDlZ-lN0   
-<img src="https://raw.githubusercontent.com/shannon112/arduino_Inversed_Pendulum_Robot/v2.0/image_video.png" width="500">
+<img src="https://raw.githubusercontent.com/shannon112/arduino_WALLEEE/v2.0/image_video.png" width="500">
   
 ### Team Member:
 機械四 洪瑋琪、機械三 謝孟儒、機械三 李尚倫(shannon112)
